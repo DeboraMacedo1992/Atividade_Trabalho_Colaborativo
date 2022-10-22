@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Participantes - Grupo 04
 
 Nome: Debora Macedo dos Santos | Matricula: 20222tsis1993
@@ -6,4 +7,7 @@ Nome: Debora Macedo dos Santos | Matricula: 20222tsis1993
 Israel de Souza Timboiba 20222TSIS2175
 >>>>>>> f881de469a567c3bcfe8914fd855717a4cd46459
 
+=======
+Israel de Souza Timboiba 20222TSIS2175
+>>>>>>> e8e3920a0fc456d1193ba0538f30e115eb0e280f
 Débora Macêdo dos Santos 20222tsis1993
